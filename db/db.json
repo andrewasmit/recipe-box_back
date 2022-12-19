@@ -59,6 +59,16 @@
       "meal": "breakfast",
       "notes":["These were OK.", "Not sure if it was worth the effort", "Can be made ahead in order to save time!"],
       "link" : "https://www.thekitchn.com/croissant-breakfast-sandwich-265098?utm_source=pinterest&utm_medium=tracking&utm_campaign=inline-img-share"
+    },
+    {
+      "id": 7,
+      "name": "Elote Corn Salad w/ Chile and Lime",
+      "image": "https://i0.wp.com/live.staticflickr.com/65535/48265932462_492d9ce276_z.jpg?resize=640%2C427&ssl=1",
+      "status": "repeat",
+      "effort": 2,
+      "meal": "side",
+      "notes":["So delicious!", "Easy!"],
+      "link" : "https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/"
     }
   ]
 }
